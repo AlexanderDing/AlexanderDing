@@ -1,10 +1,9 @@
 # uniShop
-* 得推uniShop商城支持正常销售、拼团、限时促销模式
-# 安装说明
+* uniShop is an app that I developed a while back. It supports multiple methods of selling and was inspired by Taobao.
+# Download instruction
+* Please refer to the link down below:
 * http://uniapp.dcloud.io/ 
-* 下载HBuilderX 
-* 用HBuilderX打开目录或者直接从git新建项目 
-* 可以加入得推U社 https://u.deitui.com 购买前后台完整源码
-# 技术支持
-* QQ：362606856 
+* Download HBuilderX 
+* Use HBuilderX to open menu or simply start a new project from git
+
 
